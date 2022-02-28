@@ -2,7 +2,7 @@
   "name": "react-native-yusha-customkeyboard",
   "version": "0.1.2",
   "description": "react native custom keyboard",
-  "homepage": "https://github.com/li-zhongdeng/react-native-yusha-customKeyboard.git"
+  "homepage": "https://github.com/li-zhongdeng/react-native-yusha-customKeyboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
