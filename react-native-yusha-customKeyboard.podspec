@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platforms    = { :ios => "9.0", :osx => "10.13" }
 
   s.source       = { :git => "https://github.com/react-native-webview/react-native-yusha-customKeyboard.git", :tag => "v#{s.version}" }
-  s.source_files  = "apple/**/*.{h,m}"
+  s.source_files  = "ios/**/*.{h,m}"
 
   s.dependency 'React-Core'
 end
